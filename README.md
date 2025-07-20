@@ -1,7 +1,7 @@
 # Lab 1: Decoding the Game – Data Wrangling with Cricket JSON  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/<KP-AI-ML-Labs>/<Lab1-Data-Wrangling>/blob/main/g_Lab1_S.ipynb)
+https://colab.research.google.com/github/KP-AI-ML-Labs/Lab1-Data-Wrangling/blob/main/g_Lab1_S.ipynb)
 
 ---
 
