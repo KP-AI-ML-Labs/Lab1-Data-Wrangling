@@ -23,7 +23,7 @@ Before we can predict, we must understand. Our first task is to make sense of th
 Load the nested JSON data, understand its hierarchical structure, and extract key information into a flat, usable format.  
 
 **Tasks (Student Notebook):**  
-1. Load the `get_scorecard.json` file  
+1. Load the `json_response.json` file  
 2. Navigate the nested structure to access the `score` object  
 3. Extract the `batsmen` list from the **first innings** (`innings[0]`)  
 4. Create a Pandas DataFrame from the extracted `batsmen` list  
